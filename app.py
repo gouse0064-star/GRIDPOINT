@@ -67,7 +67,7 @@ if uploaded_file is not None:
 else:
 
     data = pd.read_csv(
-        "data/sample_neighborhoods.csv"
+        "sample_neighborhoods.csv"
     )
 
 
